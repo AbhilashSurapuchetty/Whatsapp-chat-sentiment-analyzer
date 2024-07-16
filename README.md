@@ -29,7 +29,7 @@ Follow these steps to set up the project on your local machine.
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/AbhilashSurapuchetty/sentiment-analysis-webapp.git
+    git clone https://github.com/AbhilashSurapuchetty/Coding-Raja-Technologies-Internship.git
     cd sentiment-analysis-webapp
     ```
 
@@ -53,7 +53,34 @@ Follow these steps to set up the project on your local machine.
 - `templates/`: Directory containing the HTML and CSS template files.
     - `index.html`: The main HTML file including css and javascript code.
     
-### Training the Model
-To retrain the model, run the `model.py` script:
-```bash
-python model.py
+## Usage
+1. **Start the Flask Application**
+    ```bash
+    python app.py
+    ```
+2. **Open the Web Interface**
+    Open your web browser and go to `http://127.0.0.1:5000/`.
+
+3. **Enter Text for Sentiment Analysis**
+    Enter your text in the input box and click "Analyze" to see the sentiment classification.
+
+## Project Structure
+.
+├── app.py
+├── sentiment_model.pkl
+├── vectorizer.pkl
+├── templates/
+│ ├── index.html
+├── README.md
+├── requirements.txt
+└── train.csv # If needed
+
+shell
+Copy code
+
+## Contributing
+Feel free to submit issues or pull requests if you find any bugs or want to contribute to the project.
+
+## Author
+Abhilash Surapuchetty
+
