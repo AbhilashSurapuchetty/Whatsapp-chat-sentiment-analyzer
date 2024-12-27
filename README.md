@@ -1,4 +1,4 @@
-# Coding-Raja-Technologies-Internship
+
 # Sentiment Analysis Web Application
 
 ## Project Description
