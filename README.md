@@ -29,7 +29,7 @@ Follow these steps to set up the project on your local machine.
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/AbhilashSurapuchetty/Coding-Raja-Technologies-Internship.git
+    git clone https://github.com/AbhilashSurapuchetty/Whatsapp-chat-sentiment-analyzer.git
     cd sentiment-analysis-webapp
     ```
 
